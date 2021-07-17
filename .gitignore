@@ -1,0 +1,6 @@
+.vercel
+.next
+dist
+build
+node_modules
+yarn.lock
